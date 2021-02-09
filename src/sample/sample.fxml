@@ -6,11 +6,5 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
-      <Button fx:id="acceptButton" layoutX="325.0" layoutY="343.0" mnemonicParsing="false" text="Accept" />
-      <ComboBox fx:id="COMNameComboBox" layoutX="325.0" layoutY="193.0" prefHeight="22.0" prefWidth="150.0" />
-      <Button fx:id="refreshButton" layoutX="423.0" layoutY="343.0" mnemonicParsing="false" text="Refresh" />
-      <ComboBox fx:id="BaudrateComboBox" layoutX="325.0" layoutY="227.0" prefHeight="22.0" prefWidth="150.0" />
-      <ComboBox fx:id="ParityComboBox" layoutX="325.0" layoutY="263.0" prefHeight="22.0" prefWidth="150.0" />
-      <ComboBox fx:id="StopBitComboBox" layoutX="325.0" layoutY="300.0" prefHeight="22.0" prefWidth="150.0" />
    </children>
 </AnchorPane>
